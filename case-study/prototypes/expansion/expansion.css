@@ -1,0 +1,13 @@
+.box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-color: #198675;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  box-shadow: 0px 3px 9px #A6A6A6;
+}
